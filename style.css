@@ -1,0 +1,14 @@
+.nav_logo {
+    width: 26px;
+    height: 30px;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    flex-grow: 2;
+}
