@@ -1,12 +1,12 @@
 header{
-    background-color: rgb(122, 165, 42);
+    
     display: flex;
     align-items: center;
     margin: 10px;
 }
 
 .contenedor_logo{
-    background-color:royalblue;
+    
     width: 100%;
     text-align: center;
     margin: 10px;
@@ -16,22 +16,22 @@ header{
 .nav_logo {
     width: 40%;
 align-content: center;
-background-color: brown;
+
 }
 
 body{
-    background-color: salmon;
+    
     margin:0px;
     padding:0px;
 
 }
 .contenedor_banner{
-    background-color:purple;
+    
     margin:12px;
     text-align: center;
 }
 .contenedor_banner img{
-    background-color: springgreen;
+    
     width: 100%;
 
 }
